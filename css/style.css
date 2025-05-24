@@ -1183,7 +1183,6 @@ main {
     border: 1px solid var(--warning-900);
 }
 .i-partner-widget {
-    border-right: 1px solid #939393;
     padding-right: 2rem;
 }
 .i-partner-widget .img-fluid{
@@ -1374,7 +1373,6 @@ main {
     display: block;
 }
 .partner-frame{
-    border-right: 1px solid #939393;
     text-align: center;
     padding: 1rem;
     height: 15rem;
@@ -2271,7 +2269,6 @@ footer .footer-last{
         min-height: auto;
     }
    .partner-widget{
-    border: 1px solid var(--warning)!important;
     padding: 1.25rem;
     height: 230px;
    }
@@ -2280,7 +2277,6 @@ footer .footer-last{
     font-size: 1rem;
    }
    .i-partner-widget {
-    border: 1px solid #939393!important;
     padding-right: 0rem;
     }
     .lernern-widget{
